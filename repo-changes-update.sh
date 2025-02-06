@@ -1,7 +1,6 @@
 #!/bin/bash
 
-REPO_DIR="/home/aanya.tanwar@simform.dom/task3
-" 
+REPO_DIR="/home/aanya.tanwar@simform.dom/task3" 
 LOG_FILE="/home/aanya.tanwar@simform.dom/git_update.log" 
 
 git fetch origin >> "$LOG_FILE" 2>&1
